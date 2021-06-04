@@ -1,0 +1,24 @@
+{
+  "name": "useless",
+  "version": "1.0.0",
+  "description": "It converts letters to arbitrary emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bonicelli-Mattia/useless.git"
+  },
+  "author": "Mattia Bonicelli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bonicelli-Mattia/useless/issues"
+  },
+  "homepage": "https://github.com/Bonicelli-Mattia/useless#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
